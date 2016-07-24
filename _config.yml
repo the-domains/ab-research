@@ -1,0 +1,14 @@
+layout_spectrum: 0.6727083118166775
+typography_spectrum: 0.8181060156784952
+color:
+  brandStrength: 0.5276227379217744
+  lightness: 0.18497111974284053
+  saturation: 0.10090792737901211
+  rhythmicContrast: 0.39278188021853566
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: ab research
