@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-24T19:37:44.700Z'
+datePublished: '2016-07-24T19:49:31.132Z'
 sourcePath: _posts/2016-04-15-the-light-phone-designed-for-disconnecting.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,8 @@ keywords:
   - kickstarter
 related: []
 author: []
-dateModified: '2016-07-24T19:37:43.351Z'
+via: {}
+dateModified: '2016-07-24T19:49:30.686Z'
 title: 'The Light Phone: Designed for Disconnecting'
 app_links: []
 publisher:
@@ -34,10 +35,9 @@ description: >-
   distraction.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Light Phone: Designed for Disconnecting</h1><p>Phone addiction is real-as evidenced by a quick glance down the street, in the subway, even at the dinner table-and is one of the reasons why Apple developed a watch: so we would look at our screens less and be present more. For some, however, a smartwatch isn't enough-it still leaves room for fiddling and distraction.</p><img src="http://assets.coolhunting.com/coolhunting/2015/05/large_the-light-phone-hero.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83d0f5ce299ad3d7f079d449896c88dcc2ec48b8.jpg" /><h1>The Light Phone: Designed for Disconnecting</h1><p>Phone addiction is real-as evidenced by a quick glance down the street, in the subway, even at the dinner table-and is one of the reasons why Apple developed a watch: so we would look at our screens less and be present more. For some, however, a smartwatch isn't enough-it still leaves room for fiddling and distraction.</p></article>
